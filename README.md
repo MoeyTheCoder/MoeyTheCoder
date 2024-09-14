@@ -5,8 +5,3 @@ Hi, I’m @MoeyTheCoder, also known as Moe, a 19 year old software engineering s
 - Would be willing to collaborate on simple projects in HTML, CSS, and Javascript.
 - How to reach me: moeythecoder@gmail.com
 
-
-<!---
-MoeyTheCoder/MoeyTheCoder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
